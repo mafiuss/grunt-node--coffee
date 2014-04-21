@@ -13,9 +13,8 @@ module.exports = function(grunt) {
           join: true
         },
         files: {
-          'lib/eve.js': [
-            'coffee/*'
-          ]
+          'lib/eve.js': ['coffee/eve.coffee'],
+          'test/eve_test.js': ['coffee/eve_test.coffee']
         }
       }
     },
