@@ -1,7 +1,5 @@
 # eve
 
-programming homework 1 crypto 1
-
 ## Getting Started
 Install the module with: `npm install eve`
 
